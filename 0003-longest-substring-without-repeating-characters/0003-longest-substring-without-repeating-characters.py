@@ -4,16 +4,18 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        
-        maxLength = 0
-        for i in range(len(s)):
-            mySet = set()
-            for j in range(i, len(s)):
-                if s[j] in mySet:
-                    break
-                maxLength = max(maxLength, j-i+1)
-                mySet.add(s[j])
-        return maxLength            
+        d = dict()
+        maxi = 0
+        left = right = 0
+        while right < len(s):
+            if s[right] in d:
+                left = max(left, d[s[right]]+1)               
+            maxi = max(maxi, right - left + 1)
+            d[s[right]] = right
+            right = right + 1  
+        return maxi
+
+
            
 
 
