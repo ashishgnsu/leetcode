@@ -14,15 +14,13 @@ class Solution(object):
             "M":1000
         }
         ans = 0
-        i = 0
-        while i < (len(s)):
-            if i+1 < len(s) and roman[s[i]]  < roman[s[i + 1]]:
-                ans = ans + roman[s[i + 1]] - roman[s[i]]
-                i = i + 2
+        for i in range(len(s)):
+            if i + 1 < len(s) and roman[s[i]] < roman[s[i+1]]:
+                ans = ans - roman[s[i]]
             else:
                 ans = ans + roman[s[i]]
-                i = i + 1
-        return ans        
+        return ans            
+              
 
 
 
