@@ -12,7 +12,7 @@ class Solution(object):
         i = 0
         while i < len(word):
             for words in strs:
-                if word[i] != words[i] and word != words:
+                if word[i] != words[i]:
                     return word[:i]    
             i = i+1                  
         return word
