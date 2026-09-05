@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashishgnsu/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ashishgnsu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashishgnsu/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3904-smallest-stable-index-ii](https://github.com/ashishgnsu/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashishgnsu/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/ashishgnsu/leetcode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
