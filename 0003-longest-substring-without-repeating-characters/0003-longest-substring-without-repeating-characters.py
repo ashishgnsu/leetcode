@@ -15,7 +15,7 @@ class Solution(object):
             else:
                 if right - left > length:
                     length = right - left 
-                left = max(left, substring[s[right]] +1)   #substring[s[right]] + 1
+                left = max(left, substring[s[right]] +1)   
                 substring[s[right]] = right
                 right +=1
             if right - left > length:
