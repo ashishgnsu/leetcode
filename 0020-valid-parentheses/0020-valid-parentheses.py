@@ -1,49 +1,23 @@
-class Stack:
-    def __init__(self):
-        self.__items = []
-
-    def push(self,item):
-        self.__items.append(item)
-
-    def isEmpty(self):
-        return len(self.__items) == 0
-
-    def pop(self):
-        if self.isEmpty():
-            raise Exception("Cannot pop Stack is Empty.")
-        else:
-            return self.__items.pop()
-
-    def peek(self):
-        if self.isEmpty():
-            raise Exception("Cannot peek Stack is Empty.")
-        else:
-            return self.__items[-1]
-
-    def lenght(self):
-        return len(self.__items)      
-
-
 class Solution(object):
     def isValid(self, s):
         """
         :type s: str
         :rtype: bool
         """
-        stack = Stack()
+        stack = []
         for i in s:
             if (i == '[') or (i == '(') or (i=='{'):
-                stack.push(i)
+                stack.append(i)
             else:
-                if stack.isEmpty():
+                if len(stack) == 0:
                     return False
-                bracket = stack.peek()    
+                bracket = stack[-1]   
                 if (bracket =='(' and i == ')') or (bracket =='[' and i == ']') or (bracket =='{' and i == '}'):
                     stack.pop()
                 else:
                     return False
 
-        if stack.isEmpty():
+        if len(stack) == 0:
             return True
         return False    
 
