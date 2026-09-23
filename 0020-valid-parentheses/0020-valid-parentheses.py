@@ -11,9 +11,10 @@ class Solution(object):
             else:
                 if len(stack) == 0:
                     return False
-                bracket = stack[-1]   
+                    
+                bracket = stack.pop()  
                 if (bracket =='(' and i == ')') or (bracket =='[' and i == ']') or (bracket =='{' and i == '}'):
-                    stack.pop()
+                    continue
                 else:
                     return False
 
