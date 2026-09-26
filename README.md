@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ashishgnsu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/ashishgnsu/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ashishgnsu/leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/ashishgnsu/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ashishgnsu/leetcode/tree/master/0088-merge-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashishgnsu/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3904-smallest-stable-index-ii](https://github.com/ashishgnsu/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishgnsu/leetcode/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ashishgnsu/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ashishgnsu/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
