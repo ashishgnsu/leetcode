@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashishgnsu/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishgnsu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ashishgnsu/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ashishgnsu/leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashishgnsu/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ashishgnsu/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ashishgnsu/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ashishgnsu/leetcode/tree/master/0169-majority-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashishgnsu/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3904-smallest-stable-index-ii](https://github.com/ashishgnsu/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashishgnsu/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ashishgnsu/leetcode/tree/master/0169-majority-element) |
 ## Enumeration
 |  |
 | ------- |
@@ -136,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ashishgnsu/leetcode/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashishgnsu/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashishgnsu/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashishgnsu/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
