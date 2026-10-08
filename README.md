@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashishgnsu/leetcode/tree/master/0169-majority-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashishgnsu/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3904-smallest-stable-index-ii](https://github.com/ashishgnsu/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/ashishgnsu/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ashishgnsu/leetcode/tree/master/0067-add-binary) |
+| [3925-concatenate-array-with-reverse](https://github.com/ashishgnsu/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
 | ------- |
